@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac7b8e7b-de75-40d4-83f8-a4aac59141f6" name="Changes" comment="List, sortedBy and groupBy">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/estudos/collections/TesteSet.kt" afterDir="false" />
+    <list default="true" id="ac7b8e7b-de75-40d4-83f8-a4aac59141f6" name="Changes" comment="Uso do setOf, union, subtract and intersect">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/estudos/collections/TesteMap.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,14 +53,7 @@
       <recent name="com.estudos.collections" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.TesteSetKt">
-    <configuration name="TesteArrayStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.estudos.collections.TesteArrayStringKt" />
-      <module name="consoleApp" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.TesteMapKt">
     <configuration name="TesteDoubleArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.estudos.collections.TesteDoubleArrayKt" />
       <module name="consoleApp" />
@@ -69,6 +63,13 @@
     </configuration>
     <configuration name="TesteListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.estudos.collections.TesteListKt" />
+      <module name="consoleApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteMapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.estudos.collections.TesteMapKt" />
       <module name="consoleApp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TesteMapKt" />
         <item itemvalue="Kotlin.TesteSetKt" />
         <item itemvalue="Kotlin.TesteListKt" />
         <item itemvalue="Kotlin.Teste_OperacoesArrayKt" />
         <item itemvalue="Kotlin.TesteDoubleArrayKt" />
-        <item itemvalue="Kotlin.TesteArrayStringKt" />
       </list>
     </recent_temporary>
   </component>
@@ -111,7 +112,7 @@
       <workItem from="1655750771064" duration="1170000" />
       <workItem from="1655828325265" duration="2495000" />
       <workItem from="1655914585332" duration="3565000" />
-      <workItem from="1655960112008" duration="7040000" />
+      <workItem from="1655960112008" duration="8187000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1655742824710</created>
@@ -169,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655966452165</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Uso do setOf, union, subtract and intersect">
+      <created>1655967390671</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1655967390671</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,7 +203,8 @@
     <MESSAGE value="Operations with count, find e any" />
     <MESSAGE value="update max and min with maxOrNull and minOrNull" />
     <MESSAGE value="List, sortedBy and groupBy" />
-    <option name="LAST_COMMIT_MESSAGE" value="List, sortedBy and groupBy" />
+    <MESSAGE value="Uso do setOf, union, subtract and intersect" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uso do setOf, union, subtract and intersect" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
