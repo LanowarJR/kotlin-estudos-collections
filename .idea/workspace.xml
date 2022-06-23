@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac7b8e7b-de75-40d4-83f8-a4aac59141f6" name="Changes" comment="update max and min with maxOrNull and minOrNull">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/estudos/collections/TesteList.kt" afterDir="false" />
+    <list default="true" id="ac7b8e7b-de75-40d4-83f8-a4aac59141f6" name="Changes" comment="List, sortedBy and groupBy">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/estudos/collections/TesteSet.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,12 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.language.Kotlin&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.TesteListKt">
+  <component name="RecentsManager">
+    <key name="KotlinExtractSuperclassDialog.RECENT_KEYS">
+      <recent name="com.estudos.collections" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.TesteSetKt">
     <configuration name="TesteArrayStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.estudos.collections.TesteArrayStringKt" />
       <module name="consoleApp" />
@@ -62,15 +67,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteIntArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.estudos.collections.TesteIntArrayKt" />
+    <configuration name="TesteListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.estudos.collections.TesteListKt" />
       <module name="consoleApp" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.estudos.collections.TesteListKt" />
+    <configuration name="TesteSetKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.estudos.collections.TesteSetKt" />
       <module name="consoleApp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TesteSetKt" />
         <item itemvalue="Kotlin.TesteListKt" />
         <item itemvalue="Kotlin.Teste_OperacoesArrayKt" />
         <item itemvalue="Kotlin.TesteDoubleArrayKt" />
         <item itemvalue="Kotlin.TesteArrayStringKt" />
-        <item itemvalue="Kotlin.TesteIntArrayKt" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +111,7 @@
       <workItem from="1655750771064" duration="1170000" />
       <workItem from="1655828325265" duration="2495000" />
       <workItem from="1655914585332" duration="3565000" />
-      <workItem from="1655960112008" duration="5952000" />
+      <workItem from="1655960112008" duration="7040000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1655742824710</created>
@@ -157,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655964502527</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="List, sortedBy and groupBy">
+      <created>1655966452165</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1655966452165</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,7 +194,8 @@
     <MESSAGE value="Operations min max average e filter" />
     <MESSAGE value="Operations with count, find e any" />
     <MESSAGE value="update max and min with maxOrNull and minOrNull" />
-    <option name="LAST_COMMIT_MESSAGE" value="update max and min with maxOrNull and minOrNull" />
+    <MESSAGE value="List, sortedBy and groupBy" />
+    <option name="LAST_COMMIT_MESSAGE" value="List, sortedBy and groupBy" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
