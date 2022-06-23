@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac7b8e7b-de75-40d4-83f8-a4aac59141f6" name="Changes" comment="Maps, Pairs and inFix Syntax">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/estudos/collections/TesteColecoesMutaveis.kt" afterDir="false" />
+    <list default="true" id="ac7b8e7b-de75-40d4-83f8-a4aac59141f6" name="Changes" comment="Mutable Lists and Sets">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/estudos/collections/Repositorio.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/estudos/collections/TesteMutavelMap.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -52,7 +54,7 @@
       <recent name="com.estudos.collections" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.TesteColecoesMutaveisKt">
+  <component name="RunManager" selected="Kotlin.TesteMutavelMapKt">
     <configuration name="TesteColecoesMutaveisKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.estudos.collections.TesteColecoesMutaveisKt" />
       <module name="consoleApp" />
@@ -74,6 +76,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TesteMutavelMapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.estudos.collections.TesteMutavelMapKt" />
+      <module name="consoleApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TesteSetKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.estudos.collections.TesteSetKt" />
       <module name="consoleApp" />
@@ -81,20 +90,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Teste_OperacoesArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.estudos.collections.Teste_OperacoesArrayKt" />
-      <module name="consoleApp" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TesteMutavelMapKt" />
         <item itemvalue="Kotlin.TesteColecoesMutaveisKt" />
         <item itemvalue="Kotlin.TesteMapKt" />
         <item itemvalue="Kotlin.TesteSetKt" />
         <item itemvalue="Kotlin.TesteListKt" />
-        <item itemvalue="Kotlin.Teste_OperacoesArrayKt" />
       </list>
     </recent_temporary>
   </component>
@@ -111,7 +113,7 @@
       <workItem from="1655750771064" duration="1170000" />
       <workItem from="1655828325265" duration="2495000" />
       <workItem from="1655914585332" duration="3565000" />
-      <workItem from="1655960112008" duration="9750000" />
+      <workItem from="1655960112008" duration="11914000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1655742824710</created>
@@ -183,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655968628546</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Mutable Lists and Sets">
+      <created>1655970040152</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1655970040152</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,7 +220,8 @@
     <MESSAGE value="List, sortedBy and groupBy" />
     <MESSAGE value="Uso do setOf, union, subtract and intersect" />
     <MESSAGE value="Maps, Pairs and inFix Syntax" />
-    <option name="LAST_COMMIT_MESSAGE" value="Maps, Pairs and inFix Syntax" />
+    <MESSAGE value="Mutable Lists and Sets" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mutable Lists and Sets" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
