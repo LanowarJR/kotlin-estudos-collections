@@ -5,8 +5,8 @@ fun main() {
     val salariosOf = doubleArrayOf(1100.0, 1700.5, 1350.4, 2580.78, 4505.78)
     salariosOf.forEach { println(it) }
     println("----------------------")
-    println("Maior salario:${salariosOf.max()}")
-    println("Menor salario:${salariosOf.min()}")
+    println("Maior salario:${salariosOf.maxOrNull()}")
+    println("Menor salario:${salariosOf.minOrNull()}")
     println("Media salarial:${salariosOf.average()}")
     println("----------------------")
     val salarioMaiorQue2000 = salariosOf.filter {
