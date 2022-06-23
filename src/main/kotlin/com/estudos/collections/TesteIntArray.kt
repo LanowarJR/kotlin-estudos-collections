@@ -33,4 +33,20 @@ fun main() {
         println(valor)
     }
 
+    print("----------------------------------")
+
+    // sem setar o size, pode-se criar um array atribuindo os valores dessa forma com o intArrayOf
+    val vetOf = intArrayOf(5,4,15,7,45,67,90)
+
+    println("Interando no intarrayOf usando o ForEach")
+    println("-----------------------------------")
+    vetOf.forEach{
+        println(it)
+    }
+
+
+
+
+
+
 }
