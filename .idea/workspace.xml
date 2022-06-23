@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac7b8e7b-de75-40d4-83f8-a4aac59141f6" name="Changes" comment="Double arrays">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/estudos/collections/Teste OperacoesArray.kt" afterDir="false" />
+    <list default="true" id="ac7b8e7b-de75-40d4-83f8-a4aac59141f6" name="Changes" comment="Operations min max average e filter">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/estudos/collections/Teste OperacoesArray.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/estudos/collections/Teste OperacoesArray.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +98,7 @@
       <workItem from="1655750771064" duration="1170000" />
       <workItem from="1655828325265" duration="2495000" />
       <workItem from="1655914585332" duration="3565000" />
-      <workItem from="1655960112008" duration="2485000" />
+      <workItem from="1655960112008" duration="3876000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1655742824710</created>
@@ -128,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655961838901</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Operations min max average e filter">
+      <created>1655962712588</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655962712588</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,7 +157,8 @@
     <MESSAGE value="arrays" />
     <MESSAGE value="arrays de String" />
     <MESSAGE value="Double arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Double arrays" />
+    <MESSAGE value="Operations min max average e filter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Operations min max average e filter" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
